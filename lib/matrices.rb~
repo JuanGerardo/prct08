@@ -100,3 +100,7 @@ def *(other)
 end
 
 end
+
+a = Matrices.new(2,2,[[1,2],[3,4]])
+b=a*2
+b.mostrar

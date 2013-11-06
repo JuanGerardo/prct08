@@ -45,5 +45,17 @@ describe "Columnas de la Matriz" do
                         @m1.columnas.should eq(2)
                 end
         end
-
+describe "Multiplicacion de Matrices" do
+                it "Halla el producto" do
+                        x = @m1 * @m2
+                        x.matriz.should eq([[7,10],[15,22]])
+                end
+       end
+       
+ describe "Multiplicacion de Matrices" do
+                it "Halla el producto" do
+                        x = @m1 * 2
+                        x.matriz.should eq([[2,4],[6,8]])
+                end
+       end
 end
