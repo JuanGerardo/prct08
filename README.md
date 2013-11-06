@@ -1,0 +1,7 @@
+LENGUAJES Y PRADIGMAS DE PROGRAMACION
+UNIVERSIDAD DE LA LAGUNA
+PRACTICA 8
+
+Autores:
+Juan Gerardo Hernandez Rousseau
+Sawan J. Kapai Harpalani
